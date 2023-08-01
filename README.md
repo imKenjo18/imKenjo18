@@ -1,8 +1,6 @@
 - 👋🏻 Hi, I’m @imKenjo18
 - 👀 I’m interested in programming/coding.
 - 🌱 I’m currently learning web development.
-<!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
 - 👶🏻 I'm still a noob to all of this so help is very much appreciated.
 
 <!---
