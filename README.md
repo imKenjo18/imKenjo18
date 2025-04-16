@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Kenjo.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Joshua Kent.
 
 
 I am currently a 👨🏻‍💻 BS in Information Technology student.
@@ -7,6 +7,7 @@ Here are a few things you should know about me:
 - 👀 I’m interested in programming/coding.
 - 🧠 I enjoy expanding my knowledge.
 - 🌱 I’m currently learning web development.
+- 🥸 I like to go by the name Kenjo online.
 
 
 #### 📜 GitHub stats:
