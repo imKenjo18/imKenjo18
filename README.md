@@ -12,8 +12,19 @@ Here are a few things you should know about me:
 
 #### 📜 GitHub stats:
 
-![GitHub Stats](https://raw.githubusercontent.com/imKenjo18/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GitHub Languages](https://raw.githubusercontent.com/imKenjo18/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GitHub Stats](https://raw.githubusercontent.com/imKenjo18/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GitHub Languages](https://raw.githubusercontent.com/imKenjo18/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<a href="https://github.com/imKenjo18/github-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imKenjo18/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img alt="GitHub Stats" src="https://raw.githubusercontent.com/imKenjo18/github-stats/master/generated/overview.svg#gh-light-mode-only">
+  </picture>
+</a>
+
+<a href="https://github.com/imKenjo18/github-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imKenjo18/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img alt="GitHub Languages" src="https://raw.githubusercontent.com/imKenjo18/github-stats/master/generated/languages.svg#gh-light-mode-only">
+  </picture>
+</a>
 
 
 #### My current technology stack:
