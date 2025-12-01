@@ -8,7 +8,7 @@ Currently working on a production-grade **Requisition & Resources Management Sys
 *(Capstone Project intended for institutional implementation • Closed-source)*
 
 
-### ⚙️ My current tech stack:
+### ⚙️ Current tech stack
 
 ![PHP](https://img.shields.io/badge/PHP-5F83BC?style=for-the-badge&logo=php&logoColor=5F83BC&logoSize=auto&labelColor=323330)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto&labelColor=323330)
@@ -17,7 +17,7 @@ Currently working on a production-grade **Requisition & Resources Management Sys
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&logoSize=auto&labelColor=323330)
 
 
-### 🏆 Recent Highlights
+### 🏆 Recent highlights
 
 - **🥇 1st Place (Provincial Division)** — Hack4Gov 2025<br>
   *Qualified for Regional Division • Inter-school Cybersecurity & CTF Competition*
@@ -26,14 +26,14 @@ Currently working on a production-grade **Requisition & Resources Management Sys
 <hr>
 
 
-### ⚡ Fun facts about me:
+### ⚡ Fun facts about me
 
 - 🎵 I love listening to music.
 - 🛼 Still learning how to inline skate.
 - 🥸 I like to go by the name Kenjo online.
 
 
-### 📜 GitHub stats:
+### 📜 GitHub stats
 
 <a href="https://github.com/imKenjo18/github-stats">
   <picture>
